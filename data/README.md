@@ -7,5 +7,5 @@ This folder contains the raw data files used in this project.
 
 ## Data Source
 
-The dataset was obtained from [Kaggle]((https://www.kaggle.com/datasets/seyedarmanhossaini/water-quality-index-wqi)). To use the data, download it from the source and place it in this folder.
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/seyedarmanhossaini/water-quality-index-wqi). To use the data, download it from the source and place it in this folder.
 
