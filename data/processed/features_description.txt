@@ -65,7 +65,6 @@ This file provides a detailed explanation of the features (variables) used in th
 
 ---
 
-### Notes
+### ✅ Notes
 - All values are numeric and have been preprocessed to handle missing or inconsistent data.
 - The dataset may be used for both **classification** (e.g., quality level) and **regression** (e.g., predicting WQI score).
-
